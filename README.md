@@ -8,5 +8,5 @@
   AdminLTE      https://github.com/almasaeed2010/AdminLTE/releases <br>
   
 HOW TO :
-1. Copy file .htaccess to your folder project (/workshop1 etc..)
+1. Copy file .htaccess to your project folder  (/workshop1 etc..)
 2. Import Ltedb.sql to your database
